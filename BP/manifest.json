@@ -5,34 +5,34 @@
     "product_type": "addon"
   },
   "header": {
-    "name": "UtilityCraft Addon Template BP",
-    "description": "Functional and documented DoriosCore examples. Requires UtilityCraft 3.5.0+.",
+    "name": "UtilityCraft: Beyond Star",
+    "description": "Functional and documented DoriosCore examples. Requires UtilityCraft 3.5.4+.",
     "min_engine_version": [1, 21, 120],
-    "uuid": "c1d0e5e1-ab8f-4b39-9beb-f337da652817",
+    "uuid": "12fe256a-7c2b-4b30-8a95-4665250ebcd1",
     "version": [0, 1, 0]
   },
   "modules": [
     {
       "type": "data",
-      "uuid": "c2e2a10c-7ec1-432c-ae88-c9c3c5095b0d",
+      "uuid": "2b211827-91b4-400e-a67d-851bcf172194",
       "version": [0, 1, 0]
     },
     {
       "type": "script",
       "language": "javascript",
       "entry": "scripts/main.js",
-      "uuid": "3342f873-24a5-4934-b7bf-28c67e89efb5",
+      "uuid": "83e00af2-0aa6-4dea-946d-d771c15ca0e7",
       "version": [0, 1, 0]
     }
   ],
   "dependencies": [
     {
-      "uuid": "f0b89465-cfab-44f1-8c7e-9e62dad3816a",
+      "uuid": "aa4b8a8c-08eb-4966-a641-f358f531a028",
       "version": [0, 1, 0]
     },
     {
       "uuid": "9d61a8df-7d50-4624-8bff-d2c90c52a5a0",
-      "version": [3, 5, 0]
+      "version": [3, 5, 4]
     },
     {
       "module_name": "@minecraft/server",

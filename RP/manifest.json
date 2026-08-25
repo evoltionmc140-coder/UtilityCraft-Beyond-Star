@@ -8,27 +8,27 @@
     "pbr"
   ],
   "header": {
-    "name": "UtilityCraft Addon Template RP",
+    "name": "UtilityCraft: Beyond Star",
     "description": "Resources for the UtilityCraft addon template.",
     "min_engine_version": [1, 21, 120],
-    "uuid": "f0b89465-cfab-44f1-8c7e-9e62dad3816a",
+    "uuid": "aa4b8a8c-08eb-4966-a641-f358f531a028",
     "version": [0, 1, 0]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "3edc8f52-d591-49fd-b910-b3ac80ec532e",
+      "uuid": "5d36f278-9302-4817-9ee4-f62ba9be09f3",
       "version": [0, 1, 0]
     }
   ],
   "dependencies": [
     {
-      "uuid": "c1d0e5e1-ab8f-4b39-9beb-f337da652817",
+      "uuid": "12fe256a-7c2b-4b30-8a95-4665250ebcd1",
       "version": [0, 1, 0]
     },
     {
       "uuid": "b8bff6b0-417e-43fb-9451-d1d9d80c309f",
-      "version": [3, 5, 0]
+      "version": [3, 5, 4]
     }
   ]
 }
